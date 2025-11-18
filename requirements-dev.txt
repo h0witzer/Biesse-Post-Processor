@@ -1,0 +1,2 @@
+oletools>=0.60.0
+pytest>=8.0.0
